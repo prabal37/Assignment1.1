@@ -1,0 +1,2 @@
+# Assignment1.1 : installing VM
+Session1-SOLVING BIG DATA PROBLEM & HADOOP FRAMEWORK
